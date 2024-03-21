@@ -1,6 +1,6 @@
 {
-  "name": "@kikiemz/getcodes",
-  "version": "1.2.0",
+  "name": "getcodes",
+  "version": "1.2.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,8 +8,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@kikiemz/getcodes": "^1.1.7",
-    "getcodes": "^1.1.6",
+    "@kikiemz/getcodes": "^1.2.0",
+    "getcodes": "^1.1.7",
+    "getsupercodess": "^1.8.7",
     "next": "14.1.3",
     "react": "^18",
     "react-dom": "^18"
